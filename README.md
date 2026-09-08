@@ -28,12 +28,12 @@
 Oi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Gustavo
 ================================================================================================================================
 
-🚀 Desenvolvedor Junior| Python, JS, HTML, CSS & Bancos de Dados | Buscando soluções eficientes através da lógica de programação.
+🚀 Desenvolvedor Junior| Python, HTML, CSS & Bancos de Dados | Buscando soluções eficientes através da lógica de programação.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Olá! Sou o Gustavo, estou em constante evolução no universo do desenvolvimento de software.
 
-Atualmente, foco em aprimorar minha lógica de programação e criar soluções eficientes combinando tecnologias de Front-End e Back-End. Tenho experiência prática na criação de interfaces com HTML, CSS e JavaScript, no desenvolvimento de scripts e automações com Python, e no planejamento e Modelagem de Banco de Dados.
+Atualmente, foco em aprimorar minha lógica de programação e criar soluções eficientes combinando tecnologias de Front-End e Back-End. Tenho experiência prática na criação de interfaces com HTML, CSS, no desenvolvimento de scripts e automações com Python, e no planejamento e Modelagem de Banco de Dados.
 
 Estou sempre em busca de novos desafios, projetos para colaborar e oportunidades para ingressar no mercado de trabalho e agregar valor a equipes de tecnologia.
 
