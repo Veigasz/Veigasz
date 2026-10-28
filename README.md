@@ -67,3 +67,9 @@ Estou sempre em busca de novos desafios, projetos para colaborar e oportunidades
 </div>
 
 ###
+
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=100&stroke=-&descSize=50&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
